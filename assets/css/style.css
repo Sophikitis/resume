@@ -1,0 +1,72 @@
+#marginCor{
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    margin-left: auto!important;
+    margin-right: 0!important;
+
+  }
+
+
+  @media (max-width: 1023px){
+  #marginCor {
+
+
+        margin-top: 0!important;
+        margin-bottom: 0!important;
+        margin-left: auto!important;
+        margin-right: auto!important;
+
+      }
+    }
+
+
+    #imgCv{
+      /* -webkit-filter: blur(1px);
+      filter: blur(1px);
+      transition: all 0.4s ease-in; */
+      cursor: pointer;
+    }
+
+    #pointer:hover{
+      /* -webkit-filter: blur(0px);
+      filter: blur(0px); */
+      cursor: pointer;
+    }
+
+.read-more{
+    flex-direction: column;
+    border: 1px solid;
+    min-width: 130px;
+    width: 130px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+
+  #titleProjects{
+    font-size: 42px;
+    font-family: "Raleway",Helvetica,sans-serif;
+    font-weight: 100;
+    margin-bottom: 0px;
+  }
+
+  #three-slide > .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+.slider img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+}
+
+
+.slider img:hover {
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    -o-filter: grayscale(0%);
+}

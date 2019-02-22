@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+.exemple-2 {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+}
+
+.headers{
+   -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.projets{
+  flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.row {
+  max-width: 900px;
+  margin: 50px auto 10px;
+  display: flex;
+flex-flow: row wrap;
+align-content: center;
+justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.flexR {
+  display: flex;
+  flex-direction: row;
+}
+
+#about .wrapper .blurb p{
+  margin-bottom: 2px;
+}
+
+#about .wrapper .blurb ul {
+list-style: none;
+padding: 0px
+}
+
+#about .wrapper .blurb div.flexR {
+justify-content: space-around;
+}
+
+.btn-plaq {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.btn-plaq a, .btnCard a {
+  transition: all 0.4s ease-in;
+  padding: 10px;
+  border: 1px solid black;
+  color: black;
+  text-decoration: none;
+
+}
+
+.btn-plaq a:hover, .btnCard a:hover{
+  transition: all 0.4s ease-in;
+  background-color: black ;
+  color: white;
+
+}
+
+.social{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.co{
+  justify-content: flex-start;
+  margin-bottom: 30px;
+}
