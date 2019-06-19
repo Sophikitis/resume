@@ -1,3 +1,27 @@
+#### TODO :
+
+* Clean Css
+* Create page contact
+	* Add button redirect contact under section address
+* Or other idea for contact :
+	* Create form contact under section address directly
+* Add change languages on menu
+* Fix color when change background
+
+
+#### TEMPLATE COOL :
+[hugo-Coder](https://github.com/naro143/hugo-coder-portfolio)
+[reveal-hugo](https://github.com/dzello/reveal-hugo)
+[hello-friend](https://github.com/rhazdon/hugo-theme-hello-friend-ng)
+[hugo-nes](https://github.com/Sophikitis/hugo-nes-classic-example)
+[hugo-Vitae](https://github.com/Sophikitis/hugo-vitae)
+
+
+
+
+
+
+
 ![Hugo](https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png)
 
 A Fast and Flexible Static Site Generator built with love by [bep](https://github.com/bep), [spf13](http://spf13.com/) and [friends](https://github.com/gohugoio/hugo/graphs/contributors) in [Go][].
