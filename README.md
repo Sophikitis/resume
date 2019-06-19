@@ -10,11 +10,11 @@
 
 
 #### TEMPLATE COOL :
-[hugo-Coder](https://github.com/naro143/hugo-coder-portfolio)
-[reveal-hugo](https://github.com/dzello/reveal-hugo)
-[hello-friend](https://github.com/rhazdon/hugo-theme-hello-friend-ng)
-[hugo-nes](https://github.com/Sophikitis/hugo-nes-classic-example)
-[hugo-Vitae](https://github.com/Sophikitis/hugo-vitae)
+[hugo-Coder](https://github.com/naro143/hugo-coder-portfolio) |
+[reveal-hugo](https://github.com/dzello/reveal-hugo) |
+[hello-friend](https://github.com/rhazdon/hugo-theme-hello-friend-ng) |
+[hugo-nes](https://github.com/Sophikitis/hugo-nes-classic-example) |
+[hugo-Vitae](https://github.com/Sophikitis/hugo-vitae) |
 
 
 
